@@ -46,7 +46,7 @@ Proyecto desarrollado por el equipo **SpeakVR** (grupo 16728) — curso *IHC y T
 
 | Integrante | Código | Carrera |
 |------------|--------|---------|
-| **Coronado Campos, Diego Alonso** | U202417632 | Ingeniería de Software |
+| **Coronado Campos, Diego Alonso** | U202417632 | Ingeniería de Sistemas de Información |
 | **Hilasaca Sanchez, José Jeanpiere** | U20231E055 | Ingeniería de Sistemas de Información |
 | **Quijano Tasayco, Stefano Paolo** | U20241C659 | Ingeniería de Sistemas de Información |
 | **Meza Tena, Maria Jose** | U202417512 | Ingeniería de Software |
