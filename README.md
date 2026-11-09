@@ -42,7 +42,7 @@ Este repositorio contiene la **Landing Page** de SpeakVR, desarrollada como part
 
 ## Autores
 
-Proyecto desarrollado por el equipo **SpeakVR** (grupo 4822) — curso *IHC y Tecnologías Móviles*, UPC.
+Proyecto desarrollado por el equipo **SpeakVR** (grupo 16728) — curso *IHC y Tecnologías Móviles*, UPC.
 
 | Integrante | Código | Carrera |
 |------------|--------|---------|
